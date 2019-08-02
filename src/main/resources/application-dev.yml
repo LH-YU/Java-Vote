@@ -1,0 +1,11 @@
+server:
+# 本地测试
+  port: 8089
+# 数据源配置
+spring:
+# 本地测试库
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/vote?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=Asia/Shanghai&useAffectedRows=true&allowMultiQueries=true
+    username: root
+    password: 123456
