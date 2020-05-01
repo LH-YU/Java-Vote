@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="javap" description="javap" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Java\jdk1.8.0_66\bin\javap.exe" />
+      <option name="PARAMETERS" value="-c &lt;%CCMSZDT0301.java%&gt;" />
+      <option name="WORKING_DIRECTORY" value="D:/Idea-demo/src/main/java/com/example/demo/DemoTest" />
+    </exec>
+  </tool>
+</toolSet>
