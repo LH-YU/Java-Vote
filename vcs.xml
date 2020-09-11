@@ -38,9 +38,13 @@
           <option name="url" value="https://gitlab.xuantong.cn/xuantong/xuantongapi" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://www.yusyscloud.com:8082/geekgame/GeekGame177.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Idea-xuantong-gitlab" />
+    <option name="cloneParentDir" value="D:\Idea-yuxin\geekgame" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
